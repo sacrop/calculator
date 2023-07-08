@@ -1,0 +1,53 @@
+.calc{
+    margin-top: 10%;
+    width: 400px;
+    height: 600px;
+    background: gray;
+    border-radius: 30px;
+}
+.txtbx{
+    width: 80%;
+    margin-left: 12%;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.btn{
+    width: 45px;
+    height: 45px;
+    margin-left: 30px;
+    border-radius: 5px;
+    font-weight: 900;
+    border: none;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.clrbtn{
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 45px;
+    width: 55px;
+    border-radius: 5px;
+    font-weight: 900;
+    border: none;
+}
+.bkbtn{
+    margin-top: 30px;
+    margin-left: 100px;
+    height: 45px;
+    width: 95px;
+    font-weight: 900;
+    border-radius: 5px;
+    border: none;
+}
+.main-body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
